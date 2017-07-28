@@ -18,7 +18,7 @@ machine:
         version: oraclejdk8
 
 dependencies:
-  override:
+    override:
        - chmod +x gradlew
     pre:
         - touch app/google-services.json
