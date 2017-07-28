@@ -7,7 +7,7 @@
 
 general:
     artifacts:
-        - C:\Users\user\Desktop\output\
+        - \Users\user\Desktop\output\
 
 machine:
     environment:
